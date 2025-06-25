@@ -1,2 +1,2 @@
-# cicd-demo
-CICD Demo 
+# CI-CD-Pipeline-Project
+A small hands on project
